@@ -1,4 +1,4 @@
-const apiKey = "96f94d9ca20934f734e539cb924c0d1d";
+const apiKey = "Enter your api key";
 
 const main = document.getElementById('main');
 const form = document.getElementById('form');
